@@ -5111,7 +5111,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
+		(property "Value" "75NF75"
 			(at 162.306 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5388,7 +5388,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "4,7K"
 			(at 121.92 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5724,7 +5724,7 @@
 				)
 			)
 		)
-		(property "Value" "Buck DC/DC"
+		(property "Value" "Buck XL7015"
 			(at 54.61 191.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5756,7 +5756,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Conversor buck"
 			(at 49.53 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -5952,7 +5952,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7019,7 +7019,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
+		(property "Value" "75NF75"
 			(at 163.83 133.3499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7355,7 +7355,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7450,8 +7450,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 130.048 106.934 90)
+		(property "Value" "R10K"
+			(at 132.842 106.172 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7515,7 +7515,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8003,8 +8003,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
-			(at 119.126 106.68 90)
+		(property "Value" "8,2K"
+			(at 121.92 106.426 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8663,7 +8663,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SANYOU_SRD_Form_C"
+		(property "Value" "ICR 50.51.9.048"
 			(at 210.82 132.0799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8686,7 +8686,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+		(property "Datasheet" "https://www.icr-reles.com.br/wp-content/themes/education-zone/pdf/S5051rev.pdf"
 			(at 199.39 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -8697,7 +8697,7 @@
 				)
 			)
 		)
-		(property "Description" "Sanyo SRD relay, Single Pole Miniature Power Relay,"
+		(property "Description" "rele icr 48v"
 			(at 199.39 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -9594,7 +9594,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SANYOU_SRD_Form_C"
+		(property "Value" "ICR 50.51.9.048"
 			(at 210.82 41.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9617,7 +9617,7 @@
 				(justify left)
 			)
 		)
-		(property "Datasheet" "http://www.sanyourelay.ca/public/products/pdf/SRD.pdf"
+		(property "Datasheet" "https://www.icr-reles.com.br/wp-content/themes/education-zone/pdf/S5051rev.pdf"
 			(at 199.39 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -9628,7 +9628,7 @@
 				)
 			)
 		)
-		(property "Description" "Sanyo SRD relay, Single Pole Miniature Power Relay,"
+		(property "Description" "rele icr 48v"
 			(at 199.39 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -10143,7 +10143,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10222,7 +10222,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10539,7 +10539,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11414,7 +11414,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
+		(property "Value" "75NF75"
 			(at 170.434 85.09 0)
 			(show_name no)
 			(do_not_autoplace no)
