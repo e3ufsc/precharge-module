@@ -4,10 +4,6 @@
 *.bak
 *.recovered.*
 
-# Gerbers
-gerbers/
-*.zip
-
 # Cache
 fp-info-cache
 
