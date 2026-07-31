@@ -1,0 +1,6 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "XL7030") (type "KiCad") (uri "C:/Users/moric/Documents/Projetos/e3/Kicad/Pre-carga Emerald 2025 V2/precargaemerald2025 v2/XL7030.kicad_sym") (options "") (descr ""))
+	(lib (name "A New Library") (type "KiCad") (uri "C:/Users/moric/Documents/Projetos/e3/Kicad/Pre-carga Emerald 2025 V2/precargaemerald2025 v2/A New Library.kicad_sym") (options "") (descr ""))
+	(lib (name "Buck") (type "KiCad") (uri "${KIPRJMOD}/Buck.kicad_sym") (options "") (descr ""))
+)

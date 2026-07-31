@@ -1,0 +1,18 @@
+# KiCad
+*.kicad_prl
+*.lck
+*.bak
+*.recovered.*
+
+# Gerbers
+gerbers/
+*.zip
+
+# Cache
+fp-info-cache
+
+# Backups
+*-backups/
+
+# VS Code Local History
+.history/

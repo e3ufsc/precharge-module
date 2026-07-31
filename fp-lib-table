@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Buck") (type "KiCad") (uri "${KIPRJMOD}/Buck.pretty") (options "") (descr ""))
+	(lib (name "sparkparts") (type "KiCad") (uri "${KIPRJMOD}/libraries/sparkparts.pretty") (options "") (descr ""))
+)
